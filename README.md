@@ -1,7 +1,8 @@
+- =====================================================
 - 👋 Hi, I’m @Chaudharyaadeshgurjar
 - 👀 I’m interested in C++ and ethical hacking.
 - 🌱 I’m currently learning in Bsc cmputer science.
-- 💞️ I’m looking to collaborate on github
+- 💞️ I'm intrested to do a part time job work from home.
 - -----------------------------------------------
 - 📫 How to reach me ...
 - email id:- battaraadesh@gmail.com
