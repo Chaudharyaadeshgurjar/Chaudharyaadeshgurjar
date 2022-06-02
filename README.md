@@ -1,4 +1,3 @@
-- =====================================================
 - 👋 Hi, I’m @Chaudharyaadeshgurjar
 - 👀 I’m interested in C++ and ethical hacking.
 - 🌱 I’m currently learning in Bsc cmputer science.
